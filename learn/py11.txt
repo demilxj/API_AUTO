@@ -1,0 +1,12 @@
+这是一个debug级别的日志
+这是一个error级别的日志
+这是一个debug级别的日志
+这是一个error级别的日志
+2021-03-03 15:53:31,795-DEBUG-class_learn.py-python11-日志信息:这是一个debug级别的日志
+2021-03-03 15:53:31,795-ERROR-class_learn.py-python11-日志信息:这是一个error级别的日志
+2021-03-03 16:16:55,721-DEBUG-class_learn.py-python11-日志信息:这是一个debug级别的日志
+2021-03-03 16:16:55,721-ERROR-class_learn.py-python11-日志信息:这是一个error级别的日志
+2021-03-03 16:18:01,293-DEBUG-class_learn.py-python11-日志信息:这是一个debug级别的日志
+2021-03-03 16:18:01,293-ERROR-class_learn.py-python11-日志信息:这是一个error级别的日志
+2021-03-03 16:19:18,744-DEBUG-class_learn.py-python11-日志信息:这是一个debug级别的日志
+2021-03-03 16:19:18,744-ERROR-class_learn.py-python11-日志信息:这是一个error级别的日志
